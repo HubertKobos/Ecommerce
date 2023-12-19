@@ -1,0 +1,10 @@
+main{
+    min-height: 85vh;
+    
+}
+.body_without_header{
+    padding: 2%;
+}
+Header{
+    min-height: 7vh;
+}
